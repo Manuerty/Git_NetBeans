@@ -8,8 +8,8 @@ package GitManu;
  *
  * @author a23manuelcr
  */
-public class Sumador {
-    public static float sumar (float a, float b ) {
-return a + b;
+public class Restador {
+    public static float restar (float a, float b ){
+ return a - b;
 }
 }
